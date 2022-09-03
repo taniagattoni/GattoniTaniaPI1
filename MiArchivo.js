@@ -1,2 +1,2 @@
-alert ("Hola Mundo");
-console.log("Hola Mundo")
+alert ("GitHub");
+console.log("GitHub")
